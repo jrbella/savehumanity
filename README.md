@@ -1,0 +1,2 @@
+# savehumanity
+save humans
